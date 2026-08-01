@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T09:35:15",
+  "last_updated": "2026-08-01T09:36:04",
   "html": {
     "https://web.archive.org/web/20240628164445if_/https://twitter.com/Riikakoi/status/1806730466550284636": {
       "status": "done",
@@ -6371,13 +6371,13 @@
       "last_updated": "2026-08-01T07:57:22"
     },
     "https://video.twimg.com/tweet_video/GTUo_kkbIAA4RTJ.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240725092022_twitter_com_Riikakoi_status_1816403108148253145.json"
       ],
-      "last_updated": "2026-08-01T09:25:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240725092022im_/https://video.twimg.com/tweet_video/GTUo_kkbIAA4RTJ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f24ab438d70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T09:35:43",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240725092022/https://video.twimg.com/tweet_video/GTUo_kkbIAA4RTJ.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GTUxWIuaUAArQ7Y.mp4": {
       "status": "done",
@@ -6405,27 +6405,27 @@
       "referenced_by": [
         "20240812074107_twitter_com_Riikakoi_status_1822901110212104635.json"
       ],
-      "last_updated": "2026-08-01T09:25:02",
+      "last_updated": "2026-08-01T09:35:46",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240812074107/https://video.twimg.com/ext_tw_video/1822662078659964929/pu/vid/avc1/720x1280/94aua7cQ5h8VMtzm.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/1824060774589050880/pu/vid/avc1/720x1280/xai_wnXfxyeiQVIQ.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20240815122928_twitter_com_Riikakoi_status_1824060840502538447.json"
       ],
-      "last_updated": "2026-08-01T09:25:05",
+      "last_updated": "2026-08-01T09:35:51",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240815122928/https://video.twimg.com/ext_tw_video/1824060774589050880/pu/vid/avc1/720x1280/xai_wnXfxyeiQVIQ.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/1827609856880037888/pu/vid/avc1/720x960/_L_AYLwiFJhykfl-.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20240825073207_twitter_com_Riikakoi_status_1827609888836792359.json"
       ],
-      "last_updated": "2026-08-01T09:25:02",
+      "last_updated": "2026-08-01T09:35:54",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240825073207/https://video.twimg.com/ext_tw_video/1827609856880037888/pu/vid/avc1/720x960/_L_AYLwiFJhykfl-.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/1953963038702510080/pu/vid/avc1/720x1280/18MGZt4UHV6-Dz14.mp4?tag=12": {
       "status": "done",
@@ -6454,18 +6454,18 @@
       "referenced_by": [
         "20251217141809_twitter_com_Riikakoi_status_2001295856046109056.json"
       ],
-      "last_updated": "2026-08-01T09:25:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251217141809im_/https://video.twimg.com/amplify_video/2000677930666745856/vid/avc1/720x1280/QRCWNcVqteVuMLnv.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f24ab438e30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:36:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251217141809/https://video.twimg.com/amplify_video/2000677930666745856/vid/avc1/720x1280/QRCWNcVqteVuMLnv.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff1ad615040>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2000677930591248387/vid/avc1/720x1280/1dNmbHvRat_ASWA1.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251217141809_twitter_com_Riikakoi_status_2001295856046109056.json"
       ],
-      "last_updated": "2026-08-01T09:25:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251217141809im_/https://video.twimg.com/amplify_video/2000677930591248387/vid/avc1/720x1280/1dNmbHvRat_ASWA1.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f24ab43a8d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-01T09:36:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251217141809im_/https://video.twimg.com/amplify_video/2000677930591248387/vid/avc1/720x1280/1dNmbHvRat_ASWA1.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff1ad616ab0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2029127150486601730/pu/vid/avc1/1280x720/6Ark8URaaALHEE7k.mp4?tag=12": {
       "status": "done",
@@ -9863,7 +9863,7 @@
       "last_updated": "2026-08-01T07:58:04"
     },
     "20240725092022_twitter_com_Riikakoi_status_1816403108148253145.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -9873,7 +9873,7 @@
           "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T09:25:14",
+      "last_updated": "2026-08-01T09:35:43",
       "miss_count": 2
     },
     "20240725095652_twitter_com_Riikakoi_status_1816412291660906897.json": {
