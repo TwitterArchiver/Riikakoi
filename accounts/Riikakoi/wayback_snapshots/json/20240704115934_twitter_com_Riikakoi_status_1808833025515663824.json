@@ -1,0 +1,244 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1808556645959807140",
+    "created_at": "2024-07-04T11:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T12:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808833025515663824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1793271601003204608",
+          "start": 0,
+          "username": "EE041015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808833025515663824",
+    "in_reply_to_user_id": "1793271601003204608",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808556645959807140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EE041015 原片在哪里看呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1808556645959807140",
+        "created_at": "2024-07-04T11:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T12:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808833025515663824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1793271601003204608",
+              "start": 0,
+              "username": "EE041015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808833025515663824",
+        "in_reply_to_user_id": "1793271601003204608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808556645959807140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EE041015 原片在哪里看呀"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808556625755787264",
+            "3_1808556625760063488",
+            "3_1808556626385006592",
+            "3_1808556625760038912"
+          ]
+        },
+        "author_id": "1793271601003204608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1808556645959807140",
+        "created_at": "2024-07-03T17:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T18:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808556645959807140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uvGHrfarkL",
+              "end": 111,
+              "expanded_url": "https://twitter.com/EE041015/status/1808556645959807140/photo/1",
+              "media_key": "3_1808556625755787264",
+              "start": 88,
+              "url": "https://t.co/uvGHrfarkL"
+            },
+            {
+              "display_url": "pic.twitter.com/uvGHrfarkL",
+              "end": 111,
+              "expanded_url": "https://twitter.com/EE041015/status/1808556645959807140/photo/1",
+              "media_key": "3_1808556625760063488",
+              "start": 88,
+              "url": "https://t.co/uvGHrfarkL"
+            },
+            {
+              "display_url": "pic.twitter.com/uvGHrfarkL",
+              "end": 111,
+              "expanded_url": "https://twitter.com/EE041015/status/1808556645959807140/photo/1",
+              "media_key": "3_1808556626385006592",
+              "start": 88,
+              "url": "https://t.co/uvGHrfarkL"
+            },
+            {
+              "display_url": "pic.twitter.com/uvGHrfarkL",
+              "end": 111,
+              "expanded_url": "https://twitter.com/EE041015/status/1808556645959807140/photo/1",
+              "media_key": "3_1808556625760038912",
+              "start": 88,
+              "url": "https://t.co/uvGHrfarkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808556645959807140",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 779,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的求你们去看波基普西录像带，我真的觉得色爆了，关键词是洗脑肢解奸尸，完全戳在我性癖上了🥵不敢看的宝贝可以去看BV1jb421n7fF解说，我看完原片在看解说仍然觉得很好看 https://t.co/uvGHrfarkL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #ED ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 没有门槛 不加联系方式   备用： @Riika_DLshyp2  贫穷ed魔女小鬼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "ED"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1611711246021328898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 194,
+          "like_count": 1850,
+          "listed_count": 1,
+          "tweet_count": 3344
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T13:24:16.000Z",
+        "description": "我是EE！此号为转世重生，狗党！热爱异宠！小女孩互fo大欢迎！！没有回fo就是查成分没过，坐标深圳，不是黄推，只是一个od割手有点病爱分享日常的小女孩，接占卜，陪玩CSGO/APEX/瓦洛兰特/云顶之弈/LOL，不键政不反共不亲共粉蛆滚，欢迎过我门槛52/88/188/520/1314",
+        "id": "1793271601003204608",
+        "location": "守护每个小女孩是我的职责",
+        "name": "给我钱别逼我求你2.0",
+        "pinned_tweet_id": "1807657831665140190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806247073395916800/7DFkXqgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 387,
+          "like_count": 6453,
+          "listed_count": 1,
+          "tweet_count": 3489
+        },
+        "username": "EE041015",
+        "verified": false
+      }
+    ]
+  }
+}

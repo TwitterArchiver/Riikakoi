@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889692679568777216"
+      ]
+    },
+    "author_id": "1266667192352821250",
+    "conversation_id": "1889692682085097662",
+    "created_at": "2025-02-12T15:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T16:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889692682085097662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YGpF0c1wyU",
+          "end": 37,
+          "expanded_url": "https://x.com/Riikakoi/status/1889692682085097662/photo/1",
+          "media_key": "3_1889692679568777216",
+          "start": 14,
+          "url": "https://t.co/YGpF0c1wyU"
+        },
+        {
+          "display_url": "x.com/love1027w/stat…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/love1027w/status/1887729825043108084",
+          "start": 38,
+          "url": "https://t.co/JgILq30XvI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889692682085097662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887729825043108084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冬恋也想玩&gt;&lt; https://t.co/YGpF0c1wyU https://t.co/JgILq30XvI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 209,
+        "media_key": "3_1889692679568777216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjmJeuRaYAAB2AR.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889692679568777216"
+          ]
+        },
+        "author_id": "1266667192352821250",
+        "conversation_id": "1889692682085097662",
+        "created_at": "2025-02-12T15:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T16:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889692682085097662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGpF0c1wyU",
+              "end": 37,
+              "expanded_url": "https://x.com/Riikakoi/status/1889692682085097662/photo/1",
+              "media_key": "3_1889692679568777216",
+              "start": 14,
+              "url": "https://t.co/YGpF0c1wyU"
+            },
+            {
+              "display_url": "x.com/love1027w/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/love1027w/status/1887729825043108084",
+              "start": 38,
+              "url": "https://t.co/JgILq30XvI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889692682085097662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887729825043108084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冬恋也想玩&gt;&lt; https://t.co/YGpF0c1wyU https://t.co/JgILq30XvI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887729822362931200"
+          ]
+        },
+        "author_id": "1527308255927492609",
+        "conversation_id": "1887729825043108084",
+        "created_at": "2025-02-07T05:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T06:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887729825043108084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7upmZabZZC",
+              "end": 29,
+              "expanded_url": "https://x.com/love1027w/status/1887729825043108084/photo/1",
+              "media_key": "3_1887729822362931200",
+              "start": 6,
+              "url": "https://t.co/7upmZabZZC"
+            },
+            {
+              "display_url": "x.com/NeneK0SMTwTF5_…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/NeneK0SMTwTF5_/status/1887152306879344642",
+              "start": 30,
+              "url": "https://t.co/ASaYyf4ce4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887729825043108084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11495,
+          "like_count": 115,
+          "quote_count": 5,
+          "reply_count": 89,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887152306879344642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想玩（ https://t.co/7upmZabZZC https://t.co/ASaYyf4ce4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 199,
+          "like_count": 1816,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 3864
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "「只要想念，就会相见」",
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1867332980777377951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765012568337432576/CKVTZuPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11866,
+          "following_count": 463,
+          "like_count": 41904,
+          "listed_count": 13,
+          "media_count": 1636,
+          "tweet_count": 23672
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

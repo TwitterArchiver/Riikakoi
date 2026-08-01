@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1875566734134202690",
+    "created_at": "2025-01-04T15:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T16:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875566734134202690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1381700420238725122",
+          "start": 3,
+          "username": "gorgeousdeath03"
+        },
+        {
+          "end": 125,
+          "id": "1551533902610632704",
+          "start": 109,
+          "username": "gorgeousdeath02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875566734134202690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874951268730585271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gorgeousdeath03: 大家好 这里是【就这样华丽的在垃圾桶里死去吧】\n生气的小红鸟 三号机\n因为我的上一个号被盗了所以只能重生(＞＜)\n希望大家帮我转发找回曾经的互关和粉丝，谢谢你们_（꧉」∠)_\n@gorgeousdeath02 这个是我上一个号 http…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1875566734134202690].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1875566734134202690",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1875566734134202690"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874951219099406336",
+            "3_1874951227735416832",
+            "3_1874951243648708608",
+            "3_1874951255468240896"
+          ]
+        },
+        "author_id": "1381700420238725122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1874951268730585271",
+        "created_at": "2025-01-02T22:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T23:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874951268730585271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 104,
+              "id": "1551533902610632704",
+              "start": 88,
+              "username": "gorgeousdeath02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NG4IZ5mvIo",
+              "end": 137,
+              "expanded_url": "https://x.com/gorgeousdeath03/status/1874951268730585271/photo/1",
+              "media_key": "3_1874951219099406336",
+              "start": 114,
+              "url": "https://t.co/NG4IZ5mvIo"
+            },
+            {
+              "display_url": "pic.x.com/NG4IZ5mvIo",
+              "end": 137,
+              "expanded_url": "https://x.com/gorgeousdeath03/status/1874951268730585271/photo/1",
+              "media_key": "3_1874951227735416832",
+              "start": 114,
+              "url": "https://t.co/NG4IZ5mvIo"
+            },
+            {
+              "display_url": "pic.x.com/NG4IZ5mvIo",
+              "end": 137,
+              "expanded_url": "https://x.com/gorgeousdeath03/status/1874951268730585271/photo/1",
+              "media_key": "3_1874951243648708608",
+              "start": 114,
+              "url": "https://t.co/NG4IZ5mvIo"
+            },
+            {
+              "display_url": "pic.x.com/NG4IZ5mvIo",
+              "end": 137,
+              "expanded_url": "https://x.com/gorgeousdeath03/status/1874951268730585271/photo/1",
+              "media_key": "3_1874951255468240896",
+              "start": 114,
+              "url": "https://t.co/NG4IZ5mvIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874951268730585271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1010,
+          "like_count": 30,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "大家好 这里是【就这样华丽的在垃圾桶里死去吧】\n生气的小红鸟 三号机\n因为我的上一个号被盗了所以只能重生(＞＜)\n希望大家帮我转发找回曾经的互关和粉丝，谢谢你们_（꧉」∠)_\n@gorgeousdeath02 这个是我上一个号 https://t.co/NG4IZ5mvIo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 203,
+          "like_count": 1799,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 3837
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T20:07:27.000Z",
+        "description": "我是生气的小红鸟〔重生版〕这里是个发疯的小号 持续吐黑水 大量阴暗发言 自残‖负能 避雷注意",
+        "id": "1381700420238725122",
+        "name": "〔重生版〕就这样华丽的在垃圾桶里死去吧",
+        "pinned_tweet_id": "1874951268730585271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874948555166896128/K4VZBcba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 181,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "gorgeousdeath03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T11:45:06.000Z",
+        "description": "我是生气的小红鸟\n这里是一个发疯的小号\n持续吐黑水，大量阴暗的发言\n‖破画画的‖负能‖自残✨避雷注意",
+        "id": "1551533902610632704",
+        "name": "就这样华丽的在垃圾桶里死去吧",
+        "pinned_tweet_id": "1874557548336234621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569221326744993792/tUV7tXgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 546,
+          "like_count": 5784,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 1178
+        },
+        "username": "gorgeousdeath02",
+        "verified": false
+      }
+    ]
+  }
+}

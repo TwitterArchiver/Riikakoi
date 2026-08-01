@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1893426169976091046",
+    "created_at": "2025-02-22T23:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T00:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893449613404778983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493553105371545601",
+          "start": 0,
+          "username": "Lutheia_Chaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893449613404778983",
+    "in_reply_to_user_id": "1493553105371545601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893426169976091046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lutheia_Chaw 特别厉害啊..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1893426161704935427",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkbND_DaoAMGYCX.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1893426169976091046",
+        "created_at": "2025-02-22T23:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T00:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893449613404778983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493553105371545601",
+              "start": 0,
+              "username": "Lutheia_Chaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893449613404778983",
+        "in_reply_to_user_id": "1493553105371545601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893426169976091046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lutheia_Chaw 特别厉害啊..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893426161704935427"
+          ]
+        },
+        "author_id": "1493553105371545601",
+        "conversation_id": "1893426169976091046",
+        "created_at": "2025-02-22T22:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T23:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893426169976091046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSu8PuNBQk",
+              "end": 60,
+              "expanded_url": "https://x.com/Lutheia_Chaw/status/1893426169976091046/photo/1",
+              "media_key": "3_1893426161704935427",
+              "start": 37,
+              "url": "https://t.co/lSu8PuNBQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893426169976091046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一边画稿，一边准备着画师考公。。。\n（图是我oc，平板充电时闲着画的😙) https://t.co/lSu8PuNBQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 201,
+          "like_count": 1813,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 3888
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T11:49:56.000Z",
+        "description": "无性别/双性恋/路过的阿宅/政治冷感/不著名气人画师/想和合得来的人们成为朋友 欢迎来找我玩儿！/点赞≠赞同 点赞+没回=不知道咋回了 没点赞=没看见 /欢迎约稿🎨/あめちゃん厨/三文鱼真好吃/最喜欢的红豆巧克力大面包@Broca_Phenol/抹茶芋泥面包@__Linsen__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 109,
+                "username": "Broca_Phenol"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "__Linsen__"
+              }
+            ]
+          }
+        },
+        "id": "1493553105371545601",
+        "location": "新的一天",
+        "name": "周透明",
+        "pinned_tweet_id": "1722949990807753027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741985599685644288/mxsWZDf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 268,
+          "like_count": 9430,
+          "listed_count": 6,
+          "media_count": 859,
+          "tweet_count": 3946
+        },
+        "username": "Lutheia_Chaw",
+        "verified": false
+      }
+    ]
+  }
+}

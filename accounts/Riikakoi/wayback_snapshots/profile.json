@@ -1,0 +1,32 @@
+{
+  "name": "幽灵羊",
+  "username": "@Riikakoi",
+  "bio": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ SH 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+  "location": "棺材⚰️",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "hashtags": [
+      {
+        "end": 4,
+        "start": 0,
+        "tag": "病み垢"
+      },
+      {
+        "end": 14,
+        "start": 8,
+        "tag": "EDTWT"
+      }
+    ],
+    "mentions": [
+      {
+        "end": 62,
+        "start": 48,
+        "username": "Riika_DLshyp2"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg"
+}

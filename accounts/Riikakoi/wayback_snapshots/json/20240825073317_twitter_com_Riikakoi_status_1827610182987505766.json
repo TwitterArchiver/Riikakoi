@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1827610148371849216"
+      ]
+    },
+    "author_id": "1266667192352821250",
+    "conversation_id": "1827610182987505766",
+    "created_at": "2024-08-25T07:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T08:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1827610182987505766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pkivy7fdvb",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Riikakoi/status/1827610182987505766/video/1",
+          "media_key": "7_1827610148371849216",
+          "start": 35,
+          "url": "https://t.co/pKivy7Fdvb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827610182987505766",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药效中给女家长煮面吃\n冬恋一口没吃到👍🏻👍🏻👍🏻\n路过可以夸夸冬恋吗 https://t.co/pKivy7Fdvb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11702,
+        "height": 960,
+        "media_key": "7_1827610148371849216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1827610148371849216/pu/img/geksnlQ69Ml7EO5s.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1827610148371849216/pu/vid/avc1/320x426/PDEMtkIx3K025UG2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1827610148371849216/pu/vid/avc1/480x640/m6TgeTwXBJI3zGEn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1827610148371849216/pu/vid/avc1/720x960/y-q7D8cO3GF4e1sG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1827610148371849216/pu/pl/TZhlLJRmEdW-hCO6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1827610148371849216"
+          ]
+        },
+        "author_id": "1266667192352821250",
+        "conversation_id": "1827610182987505766",
+        "created_at": "2024-08-25T07:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T08:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827610182987505766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pkivy7fdvb",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Riikakoi/status/1827610182987505766/video/1",
+              "media_key": "7_1827610148371849216",
+              "start": 35,
+              "url": "https://t.co/pKivy7Fdvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827610182987505766",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药效中给女家长煮面吃\n冬恋一口没吃到👍🏻👍🏻👍🏻\n路过可以夸夸冬恋吗 https://t.co/pKivy7Fdvb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高                 备用： @Riika_DLshyp2  贫穷ed魔女小鬼🧡goal: 34kg🧡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 196,
+          "like_count": 1831,
+          "listed_count": 1,
+          "tweet_count": 3623
+        },
+        "username": "Riikakoi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1858740333678563611",
+    "created_at": "2024-11-19T06:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T07:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858757476642099707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576673750870675456",
+          "start": 0,
+          "username": "didi07392064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858757476642099707",
+    "in_reply_to_user_id": "1576673750870675456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858740333678563611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didi07392064 宝宝宝宝生日快乐一直快乐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1858740333678563611].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1858740333678563611",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1858740333678563611"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1858740333678563611",
+        "created_at": "2024-11-19T06:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T07:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858757476642099707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576673750870675456",
+              "start": 0,
+              "username": "didi07392064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858757476642099707",
+        "in_reply_to_user_id": "1576673750870675456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858740333678563611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didi07392064 宝宝宝宝生日快乐一直快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高                 备用： @Riika_DLshyp2  贫穷ed魔女小鬼🧡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 195,
+          "like_count": 1794,
+          "listed_count": 1,
+          "tweet_count": 3716
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T20:41:36.000Z",
+        "description": "这是我的吐苦水地  不太会说话\n淡了偶尔上线刷刷 另一个画画号偶尔发画",
+        "id": "1576673750870675456",
+        "location": "🚪88无上限陪你聊天 不搞黄不线下",
+        "name": "心情是一滩呕吐物",
+        "pinned_tweet_id": "1855182597569048842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813566840138063872/uOlMuDhQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 283,
+          "like_count": 10855,
+          "listed_count": 3,
+          "tweet_count": 6185
+        },
+        "username": "didi07392064",
+        "verified": false
+      }
+    ]
+  }
+}

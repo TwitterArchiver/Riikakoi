@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1824060840502538447",
+    "created_at": "2024-08-16T02:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T03:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824274403125023084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1667437498556096514",
+          "start": 0,
+          "username": "YOULINGJUN2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824274403125023084",
+    "in_reply_to_user_id": "1667437498556096514",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824126106150244577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YOULINGJUN2022 抽象文案你喜欢吗😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1824060840502538447",
+        "created_at": "2024-08-16T02:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T03:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824274403125023084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1667437498556096514",
+              "start": 0,
+              "username": "YOULINGJUN2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824274403125023084",
+        "in_reply_to_user_id": "1667437498556096514",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824126106150244577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YOULINGJUN2022 抽象文案你喜欢吗😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667437498556096514",
+        "conversation_id": "1824060840502538447",
+        "created_at": "2024-08-15T16:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T17:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824126106150244577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266667192352821250",
+              "start": 0,
+              "username": "Riikakoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824126106150244577",
+        "in_reply_to_user_id": "1266667192352821250",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824060840502538447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riikakoi 大袜子这还是中文吗🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高                 备用： @Riika_DLshyp2  贫穷ed魔女小鬼🧡goal: 34kg🧡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 196,
+          "like_count": 1841,
+          "listed_count": 1,
+          "tweet_count": 3596
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T07:44:33.000Z",
+        "description": "情生情死情未了，缘起缘灭缘未央",
+        "id": "1667437498556096514",
+        "location": "波比波帝國！",
+        "name": "YOULINGJUN2022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673150814121230336/l9erAkto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 309,
+          "like_count": 1507,
+          "listed_count": 0,
+          "tweet_count": 954
+        },
+        "username": "YOULINGJUN2022",
+        "verified": false
+      }
+    ]
+  }
+}

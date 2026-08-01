@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1812029846438183193",
+    "created_at": "2025-11-18T04:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T05:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990645789169971363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1297323279095435264",
+          "start": 0,
+          "username": "fudujiya"
+        },
+        {
+          "end": 23,
+          "id": "1886459650289410049",
+          "start": 10,
+          "username": "bingling9895"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990645789169971363",
+    "in_reply_to_user_id": "1297323279095435264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990395763189252457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fudujiya @bingling9895 谢谢你!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1812029846438183193",
+        "created_at": "2025-11-18T04:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T05:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990645789169971363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1297323279095435264",
+              "start": 0,
+              "username": "fudujiya"
+            },
+            {
+              "end": 23,
+              "id": "1886459650289410049",
+              "start": 10,
+              "username": "bingling9895"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990645789169971363",
+        "in_reply_to_user_id": "1297323279095435264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990395763189252457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fudujiya @bingling9895 谢谢你!!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297323279095435264",
+        "conversation_id": "1812029846438183193",
+        "created_at": "2025-11-17T12:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990395763189252457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266667192352821250",
+              "start": 0,
+              "username": "Riikakoi"
+            },
+            {
+              "end": 23,
+              "id": "1886459650289410049",
+              "start": 10,
+              "username": "bingling9895"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990395763189252457",
+        "in_reply_to_user_id": "1266667192352821250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812029846438183193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riikakoi @bingling9895 好美啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 200,
+          "like_count": 1718,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 4044
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-23T00:02:37.000Z",
+        "description": "该吃药了……",
+        "id": "1297323279095435264",
+        "location": "重庆",
+        "name": "尼亚_naY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986377875415834628/XQRbpLb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 133,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 121
+        },
+        "username": "fudujiya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T17:00:29.000Z",
+        "description": "泥嚎這裡是貓貓 ~ 台灣｜15｜INFP-T｜女孩紙｜自傷自殘｜OD｜🚪250 *此帳號不慫恿或助長自我傷害相關行為，相關內容皆為紀錄用。*姐姐@xiao_yuan1221",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "xiao_yuan1221"
+              }
+            ]
+          }
+        },
+        "id": "1886459650289410049",
+        "location": "美好的幻想中",
+        "name": "窗邊的貓貓🐾",
+        "pinned_tweet_id": "1990213946285109342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886459759135744004/CN5DbgQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 280,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 2507
+        },
+        "username": "bingling9895",
+        "verified": false
+      }
+    ]
+  }
+}

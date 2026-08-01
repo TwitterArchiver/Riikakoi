@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022309303173222400"
+      ],
+      "media_source_tweet_id": [
+        "2022309308562866263"
+      ]
+    },
+    "author_id": "1266667192352821250",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      }
+    ],
+    "conversation_id": "2022680468215468529",
+    "created_at": "2026-02-14T14:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T15:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022680468215468529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779318080411426816",
+          "start": 3,
+          "username": "O62l0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oRqftEuTsj",
+          "end": 52,
+          "expanded_url": "https://x.com/O62l0/status/2022309308562866263/photo/1",
+          "media_key": "3_2022309303173222400",
+          "start": 29,
+          "url": "https://t.co/oRqftEuTsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022680468215468529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 665
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022309308562866263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @O62l0: ほぼ完治 !  ! ネイル可愛いの https://t.co/oRqftEuTsj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2022309303173222400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCvmLmbkAAKuzf.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022309303173222400"
+          ],
+          "media_source_tweet_id": [
+            "2022309308562866263"
+          ]
+        },
+        "author_id": "1266667192352821250",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2022680468215468529",
+        "created_at": "2026-02-14T14:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022680468215468529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779318080411426816",
+              "start": 3,
+              "username": "O62l0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRqftEuTsj",
+              "end": 52,
+              "expanded_url": "https://x.com/O62l0/status/2022309308562866263/photo/1",
+              "media_key": "3_2022309303173222400",
+              "start": 29,
+              "url": "https://t.co/oRqftEuTsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022680468215468529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 665
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022309308562866263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @O62l0: ほぼ完治 !  ! ネイル可愛いの https://t.co/oRqftEuTsj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022309303173222400"
+          ]
+        },
+        "author_id": "1779318080411426816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2022309308562866263",
+        "created_at": "2026-02-13T13:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022309308562866263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRqftEuTsj",
+              "end": 41,
+              "expanded_url": "https://x.com/O62l0/status/2022309308562866263/photo/1",
+              "media_key": "3_2022309303173222400",
+              "start": 18,
+              "url": "https://t.co/oRqftEuTsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022309308562866263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 527,
+          "impression_count": 53599,
+          "like_count": 8816,
+          "quote_count": 17,
+          "reply_count": 11,
+          "retweet_count": 665
+        },
+        "reply_settings": "everyone",
+        "text": "ほぼ完治 !  ! ネイル可愛いの https://t.co/oRqftEuTsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 207,
+          "like_count": 1705,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4130
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T01:17:57.000Z",
+        "description": "16┊︎傷@io_xioa ┊︎ffのみ@amqne_ko ┊︎h:siro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "io_xioa"
+              },
+              {
+                "end": 29,
+                "start": 20,
+                "username": "amqne_ko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/sui_cide_",
+                "end": 23,
+                "expanded_url": "https://note.com/sui_cide_",
+                "start": 0,
+                "url": "https://t.co/zzWBEW9c8r"
+              }
+            ]
+          }
+        },
+        "id": "1779318080411426816",
+        "location": "zzzmlt",
+        "name": "ª º",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011213585326985216/YyLRuO6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3829,
+          "following_count": 109,
+          "like_count": 21169,
+          "listed_count": 5,
+          "media_count": 26,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/zzWBEW9c8r",
+        "username": "O62l0",
+        "verified": false
+      }
+    ]
+  }
+}
