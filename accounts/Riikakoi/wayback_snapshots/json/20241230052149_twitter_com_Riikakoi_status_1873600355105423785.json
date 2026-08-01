@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869546576789811200"
+      ],
+      "media_source_tweet_id": [
+        "1869546579369296042"
+      ]
+    },
+    "author_id": "1266667192352821250",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1873600355105423785",
+    "created_at": "2024-12-30T05:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T06:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873600355105423785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1522717092998369281",
+          "start": 3,
+          "username": "Riika_DLshyp2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hl35zppgJ9",
+          "end": 55,
+          "expanded_url": "https://x.com/Riika_DLshyp2/status/1869546579369296042/photo/1",
+          "media_key": "3_1869546576789811200",
+          "start": 32,
+          "url": "https://t.co/hl35zppgJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873600355105423785",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869546579369296042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Riika_DLshyp2: morning guys https://t.co/hl35zppgJ9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1873600355105423785].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1873600355105423785",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1873600355105423785"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1869546576789811200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfH2tNCasAAKHQe.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869546576789811200"
+          ]
+        },
+        "author_id": "1522717092998369281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1869546579369296042",
+        "created_at": "2024-12-19T00:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T01:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869546579369296042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hl35zppgJ9",
+              "end": 36,
+              "expanded_url": "https://x.com/Riika_DLshyp2/status/1869546579369296042/photo/1",
+              "media_key": "3_1869546576789811200",
+              "start": 13,
+              "url": "https://t.co/hl35zppgJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869546579369296042",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "morning guys https://t.co/hl35zppgJ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 202,
+          "like_count": 1799,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 3831
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T23:17:19.000Z",
+        "description": "SH WARNING💙𝒎𝒂𝒊𝒏:  @Riikakoi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "Riikakoi"
+              }
+            ]
+          }
+        },
+        "id": "1522717092998369281",
+        "name": "🌨️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616436899807367175/6bmku_FB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 85,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "Riika_DLshyp2",
+        "verified": false
+      }
+    ]
+  }
+}

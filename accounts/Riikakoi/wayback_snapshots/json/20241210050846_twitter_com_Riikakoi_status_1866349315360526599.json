@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1866048426255045072",
+    "created_at": "2024-12-10T05:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T06:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866349315360526599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1667437498556096514",
+          "start": 0,
+          "username": "YOULINGJUN2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866349315360526599",
+    "in_reply_to_user_id": "1667437498556096514",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866067201595498822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YOULINGJUN2022 嗯？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1866048426255045072",
+        "created_at": "2024-12-10T05:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T06:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866349315360526599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1667437498556096514",
+              "start": 0,
+              "username": "YOULINGJUN2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866349315360526599",
+        "in_reply_to_user_id": "1667437498556096514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866067201595498822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YOULINGJUN2022 嗯？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667437498556096514",
+        "conversation_id": "1866048426255045072",
+        "created_at": "2024-12-09T10:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T11:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866067201595498822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266667192352821250",
+              "start": 0,
+              "username": "Riikakoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866067201595498822",
+        "in_reply_to_user_id": "1266667192352821250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866048426255045072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riikakoi 爆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高                 备用： @Riika_DLshyp2  贫穷ed魔女小鬼🧡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 203,
+          "like_count": 1795,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 3776
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T07:44:33.000Z",
+        "description": "情生情死情未了，缘起缘灭缘未央",
+        "id": "1667437498556096514",
+        "location": "波比波帝國！",
+        "name": "YOULINGJUN2022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673150814121230336/l9erAkto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 473,
+          "like_count": 1724,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1133
+        },
+        "username": "YOULINGJUN2022",
+        "verified": false
+      }
+    ]
+  }
+}

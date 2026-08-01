@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1854568441736474993",
+    "created_at": "2024-11-08T08:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T09:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854800741313253553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1462419807173677059",
+          "start": 0,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854800741313253553",
+    "in_reply_to_user_id": "1462419807173677059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854705111353962627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jane_S_Eye 没钱看医生 想变瘦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1854568441736474993",
+        "created_at": "2024-11-08T08:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T09:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854800741313253553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854800741313253553",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854705111353962627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jane_S_Eye 没钱看医生 想变瘦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1854568441736474993",
+        "created_at": "2024-11-08T01:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T02:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854705111353962627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266667192352821250",
+              "start": 0,
+              "username": "Riikakoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854705111353962627",
+        "in_reply_to_user_id": "1266667192352821250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854568441736474993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riikakoi 请去及时就医。\n我曾经经历过进食障碍，暴食后催吐对身体伤害极大，养成习惯后容易导致电解质紊乱，严重影响身体健康。\n建议找医生开具相关抑制食欲的药物，或者抑制强迫行为的药物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高                 备用： @Riika_DLshyp2  贫穷ed魔女小鬼🧡goal: 34kg🧡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 195,
+          "like_count": 1797,
+          "listed_count": 1,
+          "tweet_count": 3700
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "I don’t want to talk about it, how you broke my heart.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw04.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw04.damoplane1.com/#/register?code=khRH22kV",
+                "start": 0,
+                "url": "https://t.co/CQ0rWuJGb1"
+              }
+            ]
+          }
+        },
+        "id": "1462419807173677059",
+        "location": "自用梯子🪜",
+        "name": "Michelle🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854541045620752384/Os0PC7AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8081,
+          "following_count": 1762,
+          "like_count": 6915,
+          "listed_count": 20,
+          "tweet_count": 7718
+        },
+        "url": "https://t.co/CQ0rWuJGb1",
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

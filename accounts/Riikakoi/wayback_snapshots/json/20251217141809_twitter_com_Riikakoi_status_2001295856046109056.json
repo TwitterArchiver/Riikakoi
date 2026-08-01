@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "2000677996504686954",
+    "created_at": "2025-12-17T14:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T15:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001295856046109056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989441591262810116",
+          "start": 0,
+          "username": "eggykawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001295856046109056",
+    "in_reply_to_user_id": "1989441591262810116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000677996504686954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggykawaii 好萌的宝宝&gt;&lt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000677930654121984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8PV-laaQAA9uCm.jpg",
+        "width": 1618
+      },
+      {
+        "duration_ms": 9066,
+        "height": 1280,
+        "media_key": "13_2000677930574520320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000677930574520320/img/7yn3wO78aQp-WTEJ.jpg",
+        "public_metrics": {
+          "view_count": 2495
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000677930574520320/vid/avc1/320x568/1BsCaGQX2P22hoIJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000677930574520320/vid/avc1/480x852/DU0XAeE9MrpNcW2a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000677930574520320/vid/avc1/720x1280/OwyJ785s0EnOhncU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000677930574520320/pl/N4cdAmD_XyBmtogU.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 5266,
+        "height": 1280,
+        "media_key": "13_2000677930666745856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000677930666745856/img/ikC8ARejnj0b9Vgx.jpg",
+        "public_metrics": {
+          "view_count": 675
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000677930666745856/vid/avc1/320x568/sg9imAVN6RBNez-1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000677930666745856/vid/avc1/480x852/S3Am5_IfwNSAswiM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000677930666745856/vid/avc1/720x1280/QRCWNcVqteVuMLnv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000677930666745856/pl/3pkpRjGdtKvf94m0.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 8833,
+        "height": 1280,
+        "media_key": "13_2000677930591248387",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000677930591248387/img/jHFOX4ZNZ_N3C0f6.jpg",
+        "public_metrics": {
+          "view_count": 374
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000677930591248387/vid/avc1/320x568/GetUVPHhn5_xlbqZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000677930591248387/vid/avc1/480x852/zi2WwRdiFwJO-1ud.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000677930591248387/vid/avc1/720x1280/1dNmbHvRat_ASWA1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000677930591248387/pl/vDaVFA_PHvzlAN_1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "2000677996504686954",
+        "created_at": "2025-12-17T14:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001295856046109056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989441591262810116",
+              "start": 0,
+              "username": "eggykawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001295856046109056",
+        "in_reply_to_user_id": "1989441591262810116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000677996504686954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggykawaii 好萌的宝宝&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000677930654121984",
+            "13_2000677930574520320",
+            "13_2000677930666745856",
+            "13_2000677930591248387"
+          ]
+        },
+        "author_id": "1989441591262810116",
+        "conversation_id": "2000677996504686954",
+        "created_at": "2025-12-15T21:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T22:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000677996504686954"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "地雷系"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "我需要钱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XepdUImtJR",
+              "end": 111,
+              "expanded_url": "https://x.com/eggykawaii/status/2000677996504686954/video/1",
+              "media_key": "3_2000677930654121984",
+              "start": 88,
+              "url": "https://t.co/XepdUImtJR"
+            },
+            {
+              "display_url": "pic.x.com/XepdUImtJR",
+              "end": 111,
+              "expanded_url": "https://x.com/eggykawaii/status/2000677996504686954/video/1",
+              "media_key": "13_2000677930574520320",
+              "start": 88,
+              "url": "https://t.co/XepdUImtJR"
+            },
+            {
+              "display_url": "pic.x.com/XepdUImtJR",
+              "end": 111,
+              "expanded_url": "https://x.com/eggykawaii/status/2000677996504686954/video/1",
+              "media_key": "13_2000677930666745856",
+              "start": 88,
+              "url": "https://t.co/XepdUImtJR"
+            },
+            {
+              "display_url": "pic.x.com/XepdUImtJR",
+              "end": 111,
+              "expanded_url": "https://x.com/eggykawaii/status/2000677996504686954/video/1",
+              "media_key": "13_2000677930591248387",
+              "start": 88,
+              "url": "https://t.co/XepdUImtJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000677996504686954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7795,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "推油们早上好中午好晚上好！\n因为没钱挂壁中我回归网络了..\n这是转生成为呪儿的新置顶(^∇^)\n请帮我转帖 同成分我们互fo好吗？！\n#门槛妹 #地雷系 #爸爸活 #我需要钱 https://t.co/XepdUImtJR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 198,
+          "like_count": 1717,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 4077
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T21:13:48.000Z",
+        "description": "我是呪 不想面对过去的自己开启了转生…没有看屌的义务 可以找我说话 家暴霸凌强奸被逼崩溃割手嗑药的小女孩 喜欢漂亮衣服香味的东西和狗 爱我请给钱🐥🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/ZMsJ2UwttN"
+              }
+            ]
+          }
+        },
+        "id": "1989441591262810116",
+        "name": "kuuaiii",
+        "pinned_tweet_id": "2000677996504686954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000101591756734464/o5_ING9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 294,
+          "like_count": 573,
+          "listed_count": 5,
+          "media_count": 148,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/ZMsJ2UwttN",
+        "username": "eggykawaii",
+        "verified": false
+      }
+    ]
+  }
+}

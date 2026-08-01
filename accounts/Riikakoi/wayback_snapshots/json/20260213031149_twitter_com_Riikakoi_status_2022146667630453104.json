@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "2021986785509933402",
+    "created_at": "2026-02-13T03:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022146667630453104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641851364350500865",
+          "start": 0,
+          "username": "Mania_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022146667630453104",
+    "in_reply_to_user_id": "1641851364350500865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021986785509933402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mania_ovo 是什么）？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_2021986764378771457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-KP89WkAE9YUR.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "2021986785509933402",
+        "created_at": "2026-02-13T03:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022146667630453104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641851364350500865",
+              "start": 0,
+              "username": "Mania_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022146667630453104",
+        "in_reply_to_user_id": "1641851364350500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021986785509933402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mania_ovo 是什么）？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021986764378771457"
+          ]
+        },
+        "author_id": "1641851364350500865",
+        "conversation_id": "2021986785509933402",
+        "created_at": "2026-02-12T16:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021986785509933402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTQzw3P3uq",
+              "end": 45,
+              "expanded_url": "https://x.com/Mania_ovo/status/2021986785509933402/photo/1",
+              "media_key": "3_2021986764378771457",
+              "start": 22,
+              "url": "https://t.co/KTQzw3P3uq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021986785509933402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我刚想回味一下怎么就被封了啊啊啊啊招魂 https://t.co/KTQzw3P3uq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 206,
+          "like_count": 1703,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4127
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T17:14:19.000Z",
+        "description": "私信只回口令｜坐标10验证20｜ed｜od｜自伤｜给我打钱我会特别感谢您的｜老婆@XJiang820",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "XJiang820"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konishi77510",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konishi77510",
+                "start": 0,
+                "url": "https://t.co/VOFHomslK4"
+              }
+            ]
+          }
+        },
+        "id": "1641851364350500865",
+        "location": "天國",
+        "name": "konishi",
+        "pinned_tweet_id": "2015497161643823515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901983704370814976/EGv7JKW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 78,
+          "like_count": 3619,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1844
+        },
+        "url": "https://t.co/VOFHomslK4",
+        "username": "Mania_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

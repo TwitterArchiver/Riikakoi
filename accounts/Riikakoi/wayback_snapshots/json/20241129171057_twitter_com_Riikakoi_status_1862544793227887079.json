@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862544787062054912"
+      ]
+    },
+    "author_id": "1266667192352821250",
+    "conversation_id": "1862544793227887079",
+    "created_at": "2024-11-29T17:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T18:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862544793227887079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DTm3s66MlI",
+          "end": 34,
+          "expanded_url": "https://x.com/Riikakoi/status/1862544793227887079/photo/1",
+          "media_key": "3_1862544787062054912",
+          "start": 11,
+          "url": "https://t.co/DTm3s66MlI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862544793227887079",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是不是感染了...？ https://t.co/DTm3s66MlI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1862544793227887079].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1862544793227887079",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1862544793227887079"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1862544787062054912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdkWnZsW4AAqZkG.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高                 备用： @Riika_DLshyp2  贫穷ed魔女小鬼🧡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 197,
+          "like_count": 1792,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 3731
+        },
+        "username": "Riikakoi",
+        "verified": false
+      }
+    ]
+  }
+}

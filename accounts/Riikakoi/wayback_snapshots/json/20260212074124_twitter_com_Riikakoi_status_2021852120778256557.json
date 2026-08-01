@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "2021793707326935145",
+    "created_at": "2026-02-12T07:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021852120778256557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1468567542264664067",
+          "start": 0,
+          "username": "Angelica_zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021852120778256557",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021793707326935145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angelica_zj 大数据好吓人……但是感觉冬恋主页和现生割裂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "2021793707326935145",
+        "created_at": "2026-02-12T07:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021852120778256557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021852120778256557",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021793707326935145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 大数据好吓人……但是感觉冬恋主页和现生割裂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2021793707326935145",
+        "created_at": "2026-02-12T03:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021793707326935145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021793707326935145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 741,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我已经不在意玩推被现生发现这种事了。毕竟发现我的推只能收获一堆古早血图和无聊的生活照，以及有概率开出对你本人的辱骂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 204,
+          "like_count": 1702,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 4120
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25265,
+          "following_count": 1034,
+          "like_count": 14610,
+          "listed_count": 40,
+          "media_count": 1519,
+          "tweet_count": 16635
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

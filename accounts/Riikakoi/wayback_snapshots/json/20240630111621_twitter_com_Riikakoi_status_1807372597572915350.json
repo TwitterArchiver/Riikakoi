@@ -1,0 +1,151 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1807372597572915350",
+    "created_at": "2024-06-30T11:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T12:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1807372597572915350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Riikakoi/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Riikakoi/status/1807310391950893522",
+          "start": 6,
+          "url": "https://t.co/UT7IJusKha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807372597572915350",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807310391950893522",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打开声音🔊 https://t.co/UT7IJusKha"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1807310391950893522].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1807310391950893522",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1807310391950893522"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1807372597572915350",
+        "created_at": "2024-06-30T11:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T12:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807372597572915350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Riikakoi/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Riikakoi/status/1807310391950893522",
+              "start": 6,
+              "url": "https://t.co/UT7IJusKha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807372597572915350",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807310391950893522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打开声音🔊 https://t.co/UT7IJusKha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #ED ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 没有门槛 不加联系方式   备用： @Riika_DLshyp2  笨蛋见习小幽灵👻♥︎",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "ED"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1611711246021328898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 199,
+          "like_count": 1848,
+          "listed_count": 1,
+          "tweet_count": 3296
+        },
+        "username": "Riikakoi",
+        "verified": false
+      }
+    ]
+  }
+}

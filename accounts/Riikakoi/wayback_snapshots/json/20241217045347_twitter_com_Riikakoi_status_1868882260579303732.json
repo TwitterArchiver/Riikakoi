@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1868882260579303732",
+    "created_at": "2024-12-17T04:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T05:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868882260579303732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Riika_DLshyp2/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Riika_DLshyp2/status/1868340223123624395",
+          "start": 8,
+          "url": "https://t.co/J4WVQ1yKQA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868882260579303732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868340223123624395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "转推点赞求你们 https://t.co/J4WVQ1yKQA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1868340223123624395].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1868340223123624395",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1868340223123624395"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1868882260579303732",
+        "created_at": "2024-12-17T04:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T05:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868882260579303732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Riika_DLshyp2/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Riika_DLshyp2/status/1868340223123624395",
+              "start": 8,
+              "url": "https://t.co/J4WVQ1yKQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868882260579303732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868340223123624395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转推点赞求你们 https://t.co/J4WVQ1yKQA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 备用： @Riika_DLshyp2  贫穷ed魔女小鬼🧡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 49,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 200,
+          "like_count": 1799,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 3810
+        },
+        "username": "Riikakoi",
+        "verified": false
+      }
+    ]
+  }
+}

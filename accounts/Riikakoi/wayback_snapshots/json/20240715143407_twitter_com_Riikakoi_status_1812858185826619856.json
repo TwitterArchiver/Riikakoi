@@ -1,0 +1,169 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1812858185826619856",
+    "created_at": "2024-07-15T14:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T15:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1812858185826619856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Riikakoi/statu…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/Riikakoi/status/1812846733044727905",
+          "start": 64,
+          "url": "https://t.co/es4uYu2mHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812858185826619856",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812846733044727905",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是啊...解释一下没有在卖惨讨门槛的意思...\n冬恋没有赞赏码也没有收过任何门槛\n只是有感而发\n对不起对不起真的很怕被骂婊子 https://t.co/es4uYu2mHa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1812858185826619856",
+        "created_at": "2024-07-15T14:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T15:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812858185826619856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Riikakoi/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Riikakoi/status/1812846733044727905",
+              "start": 64,
+              "url": "https://t.co/es4uYu2mHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812858185826619856",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812846733044727905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是啊...解释一下没有在卖惨讨门槛的意思...\n冬恋没有赞赏码也没有收过任何门槛\n只是有感而发\n对不起对不起真的很怕被骂婊子 https://t.co/es4uYu2mHa"
+      },
+      {
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1812846733044727905",
+        "created_at": "2024-07-15T13:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T14:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812846733044727905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812846733044727905",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦真的想吃点好的\n有时候暗喜贫穷导致ed能忍得住暴食\n但是想吃冰淇淋\n想吃麦当劳\n想吃新鲜的菜\n吃完这些绝对要自己买菜来煮了呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #ED ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 没有门槛 不加联系方式   备用： @Riika_DLshyp2  贫穷ed魔女小鬼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "ED"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 197,
+          "like_count": 1858,
+          "listed_count": 1,
+          "tweet_count": 3446
+        },
+        "username": "Riikakoi",
+        "verified": false
+      }
+    ]
+  }
+}

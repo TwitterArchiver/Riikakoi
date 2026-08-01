@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1812029846438183193",
+    "created_at": "2026-02-08T17:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T18:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020546585210569160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2020067380773425152",
+          "start": 0,
+          "username": "NakuraYuki696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020546585210569160",
+    "in_reply_to_user_id": "2020067380773425152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020098243183706375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NakuraYuki696 可以&gt;&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1812029846438183193",
+        "created_at": "2026-02-08T17:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T18:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020546585210569160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2020067380773425152",
+              "start": 0,
+              "username": "NakuraYuki696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020546585210569160",
+        "in_reply_to_user_id": "2020067380773425152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020098243183706375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NakuraYuki696 可以&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020067380773425152",
+        "conversation_id": "1812029846438183193",
+        "created_at": "2026-02-07T11:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020098243183706375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266667192352821250",
+              "start": 0,
+              "username": "Riikakoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020098243183706375",
+        "in_reply_to_user_id": "1266667192352821250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812029846438183193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riikakoi 宝宝可以互fo嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 204,
+          "like_count": 1701,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 4108
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T09:32:30.000Z",
+        "description": "名倉雪💙|jirakei|泛性戀|不接線下和非綠",
+        "id": "2020067380773425152",
+        "location": "🚪52 88",
+        "name": "Nui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020068327994060802/WjrNfrxF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "NakuraYuki696",
+        "verified": false
+      }
+    ]
+  }
+}

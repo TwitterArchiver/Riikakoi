@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881366321444876289",
+        "3_1881366321478393856",
+        "3_1881366321868480512",
+        "3_1881366320824152064"
+      ],
+      "media_source_tweet_id": [
+        "1881366325362409832",
+        "1881366325362409832",
+        "1881366325362409832",
+        "1881366325362409832"
+      ]
+    },
+    "author_id": "1266667192352821250",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1892129618481549774",
+    "created_at": "2025-02-19T08:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T09:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892129618481549774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1522717092998369281",
+          "start": 3,
+          "username": "Riika_DLshyp2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gFhPgAvTlw",
+          "end": 60,
+          "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+          "media_key": "3_1881366321444876289",
+          "start": 37,
+          "url": "https://t.co/gFhPgAvTlw"
+        },
+        {
+          "display_url": "pic.x.com/gFhPgAvTlw",
+          "end": 60,
+          "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+          "media_key": "3_1881366321478393856",
+          "start": 37,
+          "url": "https://t.co/gFhPgAvTlw"
+        },
+        {
+          "display_url": "pic.x.com/gFhPgAvTlw",
+          "end": 60,
+          "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+          "media_key": "3_1881366321868480512",
+          "start": 37,
+          "url": "https://t.co/gFhPgAvTlw"
+        },
+        {
+          "display_url": "pic.x.com/gFhPgAvTlw",
+          "end": 60,
+          "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+          "media_key": "3_1881366320824152064",
+          "start": 37,
+          "url": "https://t.co/gFhPgAvTlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892129618481549774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881366325362409832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Riika_DLshyp2: 开启手背新大陆🩷\n一发真皮♡（有吗 https://t.co/gFhPgAvTlw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1881366321444876289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghv0s5Ia8AEuc_K.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2151,
+        "media_key": "3_1881366321478393856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghv0s5QaYAATS5f.jpg",
+        "width": 1611
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1881366321868480512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghv0s6taoAADb74.jpg",
+        "width": 1535
+      },
+      {
+        "height": 1197,
+        "media_key": "3_1881366320824152064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghv0s20bcAAdTQO.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881366321444876289",
+            "3_1881366321478393856",
+            "3_1881366321868480512",
+            "3_1881366320824152064"
+          ],
+          "media_source_tweet_id": [
+            "1881366325362409832",
+            "1881366325362409832",
+            "1881366325362409832",
+            "1881366325362409832"
+          ]
+        },
+        "author_id": "1266667192352821250",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1892129618481549774",
+        "created_at": "2025-02-19T08:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T09:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892129618481549774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1522717092998369281",
+              "start": 3,
+              "username": "Riika_DLshyp2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFhPgAvTlw",
+              "end": 60,
+              "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+              "media_key": "3_1881366321444876289",
+              "start": 37,
+              "url": "https://t.co/gFhPgAvTlw"
+            },
+            {
+              "display_url": "pic.x.com/gFhPgAvTlw",
+              "end": 60,
+              "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+              "media_key": "3_1881366321478393856",
+              "start": 37,
+              "url": "https://t.co/gFhPgAvTlw"
+            },
+            {
+              "display_url": "pic.x.com/gFhPgAvTlw",
+              "end": 60,
+              "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+              "media_key": "3_1881366321868480512",
+              "start": 37,
+              "url": "https://t.co/gFhPgAvTlw"
+            },
+            {
+              "display_url": "pic.x.com/gFhPgAvTlw",
+              "end": 60,
+              "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+              "media_key": "3_1881366320824152064",
+              "start": 37,
+              "url": "https://t.co/gFhPgAvTlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892129618481549774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881366325362409832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Riika_DLshyp2: 开启手背新大陆🩷\n一发真皮♡（有吗 https://t.co/gFhPgAvTlw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881366321444876289",
+            "3_1881366321478393856",
+            "3_1881366321868480512",
+            "3_1881366320824152064"
+          ]
+        },
+        "author_id": "1522717092998369281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1881366325362409832",
+        "created_at": "2025-01-20T15:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T16:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881366325362409832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFhPgAvTlw",
+              "end": 41,
+              "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+              "media_key": "3_1881366321444876289",
+              "start": 18,
+              "url": "https://t.co/gFhPgAvTlw"
+            },
+            {
+              "display_url": "pic.x.com/gFhPgAvTlw",
+              "end": 41,
+              "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+              "media_key": "3_1881366321478393856",
+              "start": 18,
+              "url": "https://t.co/gFhPgAvTlw"
+            },
+            {
+              "display_url": "pic.x.com/gFhPgAvTlw",
+              "end": 41,
+              "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+              "media_key": "3_1881366321868480512",
+              "start": 18,
+              "url": "https://t.co/gFhPgAvTlw"
+            },
+            {
+              "display_url": "pic.x.com/gFhPgAvTlw",
+              "end": 41,
+              "expanded_url": "https://x.com/Riika_DLshyp2/status/1881366325362409832/photo/1",
+              "media_key": "3_1881366320824152064",
+              "start": 18,
+              "url": "https://t.co/gFhPgAvTlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881366325362409832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开启手背新大陆🩷\n一发真皮♡（有吗 https://t.co/gFhPgAvTlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 201,
+          "like_count": 1814,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 3879
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T23:17:19.000Z",
+        "description": "SH WARNING💙𝒎𝒂𝒊𝒏:  @Riikakoi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "Riikakoi"
+              }
+            ]
+          }
+        },
+        "id": "1522717092998369281",
+        "name": "🌨️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616436899807367175/6bmku_FB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 85,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "username": "Riika_DLshyp2",
+        "verified": false
+      }
+    ]
+  }
+}

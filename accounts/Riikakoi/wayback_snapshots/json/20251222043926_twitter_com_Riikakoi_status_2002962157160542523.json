@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1857794032891736475",
+    "created_at": "2025-12-22T04:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T05:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002962157160542523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Ark95827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002962157160542523",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002755406192603629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ark95827 冬恋日常啃一颗就有随机心跳过快心脏疼的效果……咋办吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1857794032891736475",
+        "created_at": "2025-12-22T04:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T05:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002962157160542523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Ark95827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002962157160542523",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002755406192603629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ark95827 冬恋日常啃一颗就有随机心跳过快心脏疼的效果……咋办吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "1857794032891736475",
+        "created_at": "2025-12-21T14:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T15:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002755406192603629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266667192352821250",
+              "start": 0,
+              "username": "Riikakoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002755406192603629",
+        "in_reply_to_user_id": "1266667192352821250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857794032891736475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riikakoi 也不是不可以，无意间发现的，2-3t+汽水，有持续约30min的欣快感，但下次同剂量就没感觉了，也可能是因为本人对这个不敏感()另外非常不建议心脑血管疾病患者o这东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 198,
+          "like_count": 1717,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 4083
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "they/them.pansexual.draw some fanart,and... yeah,nothing more.",
+        "id": "1886385501130866688",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "Ark95827",
+        "verified": false
+      }
+    ]
+  }
+}

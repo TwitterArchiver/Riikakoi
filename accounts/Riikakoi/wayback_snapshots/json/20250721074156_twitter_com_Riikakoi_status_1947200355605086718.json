@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1947200355605086718",
+    "created_at": "2025-07-21T07:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T08:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947200355605086718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1266667192352821250",
+          "start": 3,
+          "username": "Riikakoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947200355605086718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937139919014801453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Riikakoi: 私信太卡太卡了点不进去\n想互关的餐券妹留言↓&gt;&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1947200355605086718",
+        "created_at": "2025-07-21T07:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T08:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947200355605086718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1266667192352821250",
+              "start": 3,
+              "username": "Riikakoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947200355605086718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937139919014801453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Riikakoi: 私信太卡太卡了点不进去\n想互关的餐券妹留言↓&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1937139919014801453",
+        "created_at": "2025-06-23T13:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T14:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937139919014801453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937139919014801453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "私信太卡太卡了点不进去\n想互关的餐券妹留言↓&gt;&lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 194,
+          "like_count": 1848,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 3996
+        },
+        "username": "Riikakoi",
+        "verified": false
+      }
+    ]
+  }
+}

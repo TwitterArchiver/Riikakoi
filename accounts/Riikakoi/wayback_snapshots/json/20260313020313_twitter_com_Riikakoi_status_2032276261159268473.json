@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032120264897748992",
+        "3_2032120264910389250"
+      ],
+      "media_source_tweet_id": [
+        "2032120281691799571",
+        "2032120281691799571"
+      ]
+    },
+    "author_id": "1266667192352821250",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032276261159268473",
+    "created_at": "2026-03-13T02:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T03:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032276261159268473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1790756114700640256",
+          "start": 3,
+          "username": "hongdougao_hong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GANOi1VYC9",
+          "end": 95,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2032120281691799571/photo/1",
+          "media_key": "3_2032120264897748992",
+          "start": 72,
+          "url": "https://t.co/GANOi1VYC9"
+        },
+        {
+          "display_url": "pic.x.com/GANOi1VYC9",
+          "end": 95,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2032120281691799571/photo/1",
+          "media_key": "3_2032120264910389250",
+          "start": 72,
+          "url": "https://t.co/GANOi1VYC9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032276261159268473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032120281691799571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongdougao_hong: 互关们可以帮我转发一下吗，我这个号被永久封禁了现在用这个备用机\n\n好像还有很多互关不知道我备用机👽🥲 https://t.co/GANOi1VYC9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032276261159268473].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032276261159268473",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032276261159268473"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1142,
+        "media_key": "3_2032120264897748992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOKnUIaYAAnSCJ.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032120264910389250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOKnULbQAI_h-m.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032120264897748992",
+            "3_2032120264910389250"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032120281691799571",
+        "created_at": "2026-03-12T15:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032120281691799571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GANOi1VYC9",
+              "end": 74,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2032120281691799571/photo/1",
+              "media_key": "3_2032120264897748992",
+              "start": 51,
+              "url": "https://t.co/GANOi1VYC9"
+            },
+            {
+              "display_url": "pic.x.com/GANOi1VYC9",
+              "end": 74,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2032120281691799571/photo/1",
+              "media_key": "3_2032120264910389250",
+              "start": 51,
+              "url": "https://t.co/GANOi1VYC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032120281691799571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 668,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "互关们可以帮我转发一下吗，我这个号被永久封禁了现在用这个备用机\n\n好像还有很多互关不知道我备用机👽🥲 https://t.co/GANOi1VYC9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 222,
+          "like_count": 1701,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 4162
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 166,
+          "like_count": 928,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 408
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1810697339029585922",
+    "created_at": "2024-07-11T02:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T03:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811219845167616501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383826917380411392",
+          "start": 0,
+          "username": "anQYCUtnSp894yz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811219845167616501",
+    "in_reply_to_user_id": "1383826917380411392",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810701772903928168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anQYCUtnSp894yz 宝宝呜呜谢谢！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1810701772903928168].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1810701772903928168",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1810701772903928168"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1810697339029585922",
+        "created_at": "2024-07-11T02:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T03:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811219845167616501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383826917380411392",
+              "start": 0,
+              "username": "anQYCUtnSp894yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811219845167616501",
+        "in_reply_to_user_id": "1383826917380411392",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810701772903928168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anQYCUtnSp894yz 宝宝呜呜谢谢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #ED ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 没有门槛 不加联系方式   备用： @Riika_DLshyp2  贫穷ed魔女小鬼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "ED"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1611711246021328898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 192,
+          "like_count": 1856,
+          "listed_count": 1,
+          "tweet_count": 3383
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-18T16:57:13.000Z",
+        "description": "🚪88",
+        "id": "1383826917380411392",
+        "location": "猫岛",
+        "name": "A",
+        "pinned_tweet_id": "1723388590221295860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708504131701530624/0gef7R2Y_x96.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 267,
+          "like_count": 7632,
+          "listed_count": 4,
+          "tweet_count": 4532
+        },
+        "username": "anQYCUtnSp894yz",
+        "verified": false
+      }
+    ]
+  }
+}

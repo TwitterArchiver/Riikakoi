@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1826245856657609143",
+    "created_at": "2024-08-22T04:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T05:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826484316987408698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778071465822445568",
+          "start": 0,
+          "username": "Ymk_ToU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826484316987408698",
+    "in_reply_to_user_id": "1778071465822445568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826254314073186436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ymk_ToU 爽！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1826245856657609143",
+        "created_at": "2024-08-22T04:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T05:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826484316987408698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778071465822445568",
+              "start": 0,
+              "username": "Ymk_ToU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826484316987408698",
+        "in_reply_to_user_id": "1778071465822445568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826254314073186436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ymk_ToU 爽！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778071465822445568",
+        "conversation_id": "1826245856657609143",
+        "created_at": "2024-08-21T13:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T14:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826254314073186436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266667192352821250",
+              "start": 0,
+              "username": "Riikakoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826254314073186436",
+        "in_reply_to_user_id": "1266667192352821250",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826245856657609143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riikakoi 一直哦滴一直爽！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高                 备用： @Riika_DLshyp2  贫穷ed魔女小鬼🧡goal: 34kg🧡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 194,
+          "like_count": 1842,
+          "listed_count": 1,
+          "tweet_count": 3609
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T14:45:45.000Z",
+        "description": "07｜病み垢｜shtwt❤️‍🩹 ｜♀︎｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/YmkToU00",
+                "end": 23,
+                "expanded_url": "https://lit.link/YmkToU00",
+                "start": 0,
+                "url": "https://t.co/C6Mg0jj6XW"
+              }
+            ]
+          }
+        },
+        "id": "1778071465822445568",
+        "location": "𝕋𝕙𝕖 𝔻𝕖𝕒𝕕 𝕌𝕥𝕠𝕡𝕚𝕒💀",
+        "name": "夢叶˖◛⁺˖",
+        "pinned_tweet_id": "1803019736340742210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781368848773738496/0-oJsFO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 160,
+          "like_count": 11000,
+          "listed_count": 0,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/C6Mg0jj6XW",
+        "username": "Ymk_ToU",
+        "verified": false
+      }
+    ]
+  }
+}

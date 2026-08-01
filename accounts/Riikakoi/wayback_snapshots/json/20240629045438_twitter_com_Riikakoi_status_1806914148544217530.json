@@ -1,0 +1,253 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1806914144924532736"
+      ]
+    },
+    "author_id": "1266667192352821250",
+    "conversation_id": "1806911068251558341",
+    "created_at": "2024-06-29T04:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T05:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806914148544217530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1658881840349061120",
+          "start": 0,
+          "username": "CJing3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/qbqKlkl8H0",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Riikakoi/status/1806914148544217530/photo/1",
+          "media_key": "3_1806914144924532736",
+          "start": 14,
+          "url": "https://t.co/qbqKlkl8H0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806914148544217530",
+    "in_reply_to_user_id": "1658881840349061120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806911068251558341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CJing3_ 努力过力 https://t.co/qbqKlkl8H0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1806914144924532736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRNy12PbAAA_Cb4.jpg",
+        "width": 2025
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806914144924532736"
+          ]
+        },
+        "author_id": "1266667192352821250",
+        "conversation_id": "1806911068251558341",
+        "created_at": "2024-06-29T04:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T05:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806914148544217530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1658881840349061120",
+              "start": 0,
+              "username": "CJing3_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qbqKlkl8H0",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Riikakoi/status/1806914148544217530/photo/1",
+              "media_key": "3_1806914144924532736",
+              "start": 14,
+              "url": "https://t.co/qbqKlkl8H0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806914148544217530",
+        "in_reply_to_user_id": "1658881840349061120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806911068251558341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CJing3_ 努力过力 https://t.co/qbqKlkl8H0"
+      },
+      {
+        "attachments": {},
+        "author_id": "1658881840349061120",
+        "conversation_id": "1806911068251558341",
+        "created_at": "2024-06-29T04:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T05:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806911068251558341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CJing3_/status…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/CJing3_/status/1806590159271743706",
+              "start": 35,
+              "url": "https://t.co/I0nSDQmXUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806911068251558341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806590159271743706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不說你們知道這張有水印嗎，(=^-ω-^=)我的水印藏在好多角落裡 https://t.co/I0nSDQmXUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #ED ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 没有门槛 不加联系方式   备用： @Riika_DLshyp2  笨蛋见习小幽灵👻♥︎",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "ED"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1611711246021328898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 199,
+          "like_count": 1848,
+          "listed_count": 1,
+          "tweet_count": 3288
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "@CJing4_ \n轉載禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "CJing4_"
+              }
+            ]
+          }
+        },
+        "id": "1658881840349061120",
+        "location": "👁️錢錢錢",
+        "name": "楚鯨",
+        "pinned_tweet_id": "1804583051542057103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805152015389282304/LbdZkEpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5391,
+          "following_count": 555,
+          "like_count": 3771,
+          "listed_count": 6,
+          "tweet_count": 247
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

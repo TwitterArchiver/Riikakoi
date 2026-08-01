@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1903860520727495151",
+    "created_at": "2025-03-25T00:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T01:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904326058452865186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1551431055408009216",
+          "start": 0,
+          "username": "ruki9532"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904326058452865186",
+    "in_reply_to_user_id": "1551431055408009216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904272850619715687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruki9532 同款！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904272844613373952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm1WEBqaUAAyH-4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1903860520727495151",
+        "created_at": "2025-03-25T00:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T01:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904326058452865186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1551431055408009216",
+              "start": 0,
+              "username": "ruki9532"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904326058452865186",
+        "in_reply_to_user_id": "1551431055408009216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904272850619715687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruki9532 同款！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904272844613373952"
+          ]
+        },
+        "author_id": "1551431055408009216",
+        "conversation_id": "1903860520727495151",
+        "created_at": "2025-03-24T20:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T21:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904272850619715687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266667192352821250",
+              "start": 0,
+              "username": "Riikakoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAbPKhBqQR",
+              "end": 37,
+              "expanded_url": "https://x.com/ruki9532/status/1904272850619715687/photo/1",
+              "media_key": "3_1904272844613373952",
+              "start": 14,
+              "url": "https://t.co/fAbPKhBqQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904272850619715687",
+        "in_reply_to_user_id": "1266667192352821250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903860520727495151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riikakoi 我也有 https://t.co/fAbPKhBqQR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 202,
+          "like_count": 1821,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 3951
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T04:56:19.000Z",
+        "description": "互fo 可直接DM|自残+od+负能量｜内有血图慎入",
+        "id": "1551431055408009216",
+        "location": "天国",
+        "name": "ルキ",
+        "pinned_tweet_id": "1806902521728025035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800429727880196096/Beu_WJfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 97,
+          "like_count": 2668,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1473
+        },
+        "username": "ruki9532",
+        "verified": false
+      }
+    ]
+  }
+}

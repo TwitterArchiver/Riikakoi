@@ -1,0 +1,239 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1813850623026360826",
+    "created_at": "2024-07-18T09:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T10:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813872636977643634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1532754128236990465",
+          "start": 0,
+          "username": "Remipills"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813872636977643634",
+    "in_reply_to_user_id": "1532754128236990465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813850623026360826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remipills 他已经被车撞死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1813850623026360826",
+        "created_at": "2024-07-18T09:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T10:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813872636977643634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1532754128236990465",
+              "start": 0,
+              "username": "Remipills"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813872636977643634",
+        "in_reply_to_user_id": "1532754128236990465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813850623026360826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remipills 他已经被车撞死了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813850615325544448",
+            "3_1813850615858229248"
+          ]
+        },
+        "author_id": "1532754128236990465",
+        "conversation_id": "1813850623026360826",
+        "created_at": "2024-07-18T08:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T09:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813850623026360826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/m0UrHKgELU",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Remipills/status/1813850623026360826/photo/1",
+              "media_key": "3_1813850615325544448",
+              "start": 34,
+              "url": "https://t.co/m0UrHKgELU"
+            },
+            {
+              "display_url": "pic.twitter.com/m0UrHKgELU",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Remipills/status/1813850623026360826/photo/1",
+              "media_key": "3_1813850615858229248",
+              "start": 34,
+              "url": "https://t.co/m0UrHKgELU"
+            },
+            {
+              "display_url": "x.com/THESTARCL0WN/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/THESTARCL0WN/status/1813721892819480958",
+              "start": 58,
+              "url": "https://t.co/SUzbm16y3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813850623026360826",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 417,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813721892819480958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我的伤口啊，你们不会自己割吗非要盗别人的😂盗图的人替我得精神病 https://t.co/m0UrHKgELU https://t.co/SUzbm16y3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高                 备用： @Riika_DLshyp2  贫穷ed魔女小鬼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 198,
+          "like_count": 1860,
+          "listed_count": 1,
+          "tweet_count": 3469
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T16:01:12.000Z",
+        "description": "我是 南烛 /I am Remi丨shtwt丨⚠️gore  血腥圖像⚠️丨recovering ❤️‍🩹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn5.tcity.cc/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cn5.tcity.cc/#/register?code=Tr3p6YXz",
+                "start": 0,
+                "url": "https://t.co/qHSRqClvy9"
+              }
+            ]
+          }
+        },
+        "id": "1532754128236990465",
+        "location": "自用vpn免费试用👇",
+        "name": "R❄️",
+        "pinned_tweet_id": "1813072904097308959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813132527110074368/33IOM3Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5297,
+          "following_count": 163,
+          "like_count": 46495,
+          "listed_count": 17,
+          "tweet_count": 20928
+        },
+        "url": "https://t.co/qHSRqClvy9",
+        "username": "Remipills",
+        "verified": false
+      }
+    ]
+  }
+}

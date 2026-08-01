@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1913589151414583748",
+    "created_at": "2025-04-19T19:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T20:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913669302429122601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913669302429122601",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913589151414583748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1979,
+        "media_key": "3_1913589128119398400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5vLGObMAAk9V9.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1979,
+        "media_key": "3_1913589128106811392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5vLGLbIAAtDky.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1913589151414583748",
+        "created_at": "2025-04-19T19:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T20:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913669302429122601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913669302429122601",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913589151414583748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913589128119398400",
+            "3_1913589128106811392"
+          ]
+        },
+        "author_id": "1499709348616241155",
+        "conversation_id": "1913589151414583748",
+        "created_at": "2025-04-19T13:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T14:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913589151414583748"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "NeedyGirlOverdose"
+            },
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "主播女孩重度依赖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C71vZz48YL",
+              "end": 64,
+              "expanded_url": "https://x.com/caomeiweimaomao/status/1913589151414583748/photo/1",
+              "media_key": "3_1913589128119398400",
+              "start": 41,
+              "url": "https://t.co/C71vZz48YL"
+            },
+            {
+              "display_url": "pic.x.com/C71vZz48YL",
+              "end": 64,
+              "expanded_url": "https://x.com/caomeiweimaomao/status/1913589151414583748/photo/1",
+              "media_key": "3_1913589128106811392",
+              "start": 41,
+              "url": "https://t.co/C71vZz48YL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913589151414583748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 834,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#NeedyGirlOverdose \n#主播女孩重度依赖 \n平板迅速的摸了个鱼 https://t.co/C71vZz48YL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 198,
+          "like_count": 1873,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 3988
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🪆关注我加入爱礼教/是碎碎念清水推/非常喜欢猫咪丨🚪门槛33r 有且只有闲聊丨🦜嘤鹉：@SENDOH214丨🪜自用梯：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 82,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 59,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1913554227307454970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41205,
+          "following_count": 996,
+          "like_count": 22658,
+          "listed_count": 47,
+          "media_count": 2042,
+          "tweet_count": 26029
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

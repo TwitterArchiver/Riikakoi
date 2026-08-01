@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979745505388236800"
+      ]
+    },
+    "author_id": "1266667192352821250",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1979745508190290184",
+    "created_at": "2025-10-19T03:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T04:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979745508190290184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LKczL0Dgpe",
+          "end": 28,
+          "expanded_url": "https://x.com/Riikakoi/status/1979745508190290184/photo/1",
+          "media_key": "3_1979745505388236800",
+          "start": 5,
+          "url": "https://t.co/LKczL0Dgpe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979745508190290184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无奖竞猜 https://t.co/LKczL0Dgpe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979745505388236800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3l4DEpXkAA5bdZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979745505388236800"
+          ]
+        },
+        "author_id": "1266667192352821250",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979745508190290184",
+        "created_at": "2025-10-19T03:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T04:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979745508190290184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKczL0Dgpe",
+              "end": 28,
+              "expanded_url": "https://x.com/Riikakoi/status/1979745508190290184/photo/1",
+              "media_key": "3_1979745505388236800",
+              "start": 5,
+              "url": "https://t.co/LKczL0Dgpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979745508190290184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无奖竞猜 https://t.co/LKczL0Dgpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 199,
+          "like_count": 1735,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 4027
+        },
+        "username": "Riikakoi",
+        "verified": false
+      }
+    ]
+  }
+}

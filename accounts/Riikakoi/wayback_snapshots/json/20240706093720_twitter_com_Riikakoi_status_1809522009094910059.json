@@ -1,0 +1,405 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "1809522009094910059",
+    "created_at": "2024-07-06T09:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T10:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809522009094910059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782169277753081856",
+          "start": 3,
+          "username": "Jing_100311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809522009094910059",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809518197898383630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jing_100311: 🔝置顶3.0\n景行/景子/小景\n06美高\nSub/有稳定且长期的Dom\n欢迎互fo(小查成分\n喜欢hiphop 喜欢🩸割点手\n喜欢发点小日记 碎碎念\n🚪198 不定期掉落色图\n      -🉑嗑泡 文爱 但视情况收费\n🉑定制伤口\n🈹我是凉席妹真…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1809522009094910059",
+        "created_at": "2024-07-06T09:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T10:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809522009094910059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782169277753081856",
+              "start": 3,
+              "username": "Jing_100311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809522009094910059",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809518197898383630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jing_100311: 🔝置顶3.0\n景行/景子/小景\n06美高\nSub/有稳定且长期的Dom\n欢迎互fo(小查成分\n喜欢hiphop 喜欢🩸割点手\n喜欢发点小日记 碎碎念\n🚪198 不定期掉落色图\n      -🉑嗑泡 文爱 但视情况收费\n🉑定制伤口\n🈹我是凉席妹真…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809518193775394816",
+            "3_1809518193775374336"
+          ]
+        },
+        "author_id": "1782169277753081856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1809518197898383630",
+        "created_at": "2024-07-06T09:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T10:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809518197898383630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mYWHg0Ydqt",
+              "end": 150,
+              "expanded_url": "https://twitter.com/Jing_100311/status/1809518197898383630/photo/1",
+              "media_key": "3_1809518193775394816",
+              "start": 127,
+              "url": "https://t.co/mYWHg0Ydqt"
+            },
+            {
+              "display_url": "pic.twitter.com/mYWHg0Ydqt",
+              "end": 150,
+              "expanded_url": "https://twitter.com/Jing_100311/status/1809518197898383630/photo/1",
+              "media_key": "3_1809518193775374336",
+              "start": 127,
+              "url": "https://t.co/mYWHg0Ydqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809518197898383630",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🔝置顶3.0\n景行/景子/小景\n06美高\nSub/有稳定且长期的Dom\n欢迎互fo(小查成分\n喜欢hiphop 喜欢🩸割点手\n喜欢发点小日记 碎碎念\n🚪198 不定期掉落色图\n      -🉑嗑泡 文爱 但视情况收费\n🉑定制伤口\n🈹我是凉席妹真的对不起 https://t.co/mYWHg0Ydqt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #ED ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 没有门槛 不加联系方式   备用： @Riika_DLshyp2  贫穷ed魔女小鬼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "ED"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1611711246021328898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 193,
+          "like_count": 1851,
+          "listed_count": 1,
+          "tweet_count": 3351
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T22:07:29.000Z",
+        "description": "06/🇺🇸🇨🇳/凉席/od/日记/     欢迎小女孩互fo （直fo就好 看见会回",
+        "id": "1782169277753081856",
+        "location": "🚪198不退",
+        "name": "景",
+        "pinned_tweet_id": "1809518197898383630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782169386448461824/ZzfL8C4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 355,
+          "like_count": 254,
+          "listed_count": 0,
+          "tweet_count": 473
+        },
+        "username": "Jing_100311",
+        "verified": false
+      }
+    ]
+  }
+}

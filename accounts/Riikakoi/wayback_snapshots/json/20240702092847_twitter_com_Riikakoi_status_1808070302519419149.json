@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1808062683251425675",
+    "created_at": "2024-07-02T09:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T10:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808070302519419149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1793271601003204608",
+          "start": 0,
+          "username": "EE041015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808070302519419149",
+    "in_reply_to_user_id": "1793271601003204608",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808063789012808029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EE041015 原来素这样 冬恋用手死活扣不出来..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1808062683251425675",
+        "created_at": "2024-07-02T09:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T10:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808070302519419149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1793271601003204608",
+              "start": 0,
+              "username": "EE041015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808070302519419149",
+        "in_reply_to_user_id": "1793271601003204608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808063789012808029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EE041015 原来素这样 冬恋用手死活扣不出来..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1793271601003204608",
+        "conversation_id": "1808062683251425675",
+        "created_at": "2024-07-02T09:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T10:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808063789012808029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266667192352821250",
+              "start": 0,
+              "username": "Riikakoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808063789012808029",
+        "in_reply_to_user_id": "1266667192352821250",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808063491032625631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riikakoi 我是用的催吐管TT我用手根本扣不出来，就是吃完饭以后休息一会然后喝大量的水或者饮料，然后把催吐管伸到喉咙里面这样一直到吐出来为止"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #ED ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 没有门槛 不加联系方式   备用： @Riika_DLshyp2  笨蛋见习小幽灵👻♥︎",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "ED"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1611711246021328898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 198,
+          "like_count": 1849,
+          "listed_count": 1,
+          "tweet_count": 3320
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T13:24:16.000Z",
+        "description": "我是EE！此号为转世重生，狗党！热爱异宠！小女孩互fo大欢迎！！没有回fo麻烦私信，坐标深圳，不是黄推，只是一个od割手有点病爱分享日常的小女孩，陪玩CSGO/APEX/瓦洛兰特/云顶之弈/LOL，不键政不反共不亲共粉蛆滚，欢迎过我门槛52/88/188/520/1314",
+        "id": "1793271601003204608",
+        "location": "健全逼你们都死了",
+        "name": "给我钱别逼我求你2.0",
+        "pinned_tweet_id": "1807657831665140190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806247073395916800/7DFkXqgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 332,
+          "like_count": 6008,
+          "listed_count": 0,
+          "tweet_count": 3034
+        },
+        "username": "EE041015",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1266667192352821250",
+    "conversation_id": "1814491908720472373",
+    "created_at": "2024-07-20T03:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T04:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814507749960785955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1640341296043917325",
+          "start": 0,
+          "username": "annannanngle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814507749960785955",
+    "in_reply_to_user_id": "1640341296043917325",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814491908720472373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annannanngle 好厉害呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1266667192352821250",
+        "conversation_id": "1814491908720472373",
+        "created_at": "2024-07-20T03:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T04:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814507749960785955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1640341296043917325",
+              "start": 0,
+              "username": "annannanngle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814507749960785955",
+        "in_reply_to_user_id": "1640341296043917325",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814491908720472373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annannanngle 好厉害呀"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1814491890890559488"
+          ]
+        },
+        "author_id": "1640341296043917325",
+        "conversation_id": "1814491908720472373",
+        "created_at": "2024-07-20T02:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T03:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814491908720472373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PNsIHQ7OVT",
+              "end": 44,
+              "expanded_url": "https://twitter.com/annannanngle/status/1814491908720472373/photo/1",
+              "media_key": "3_1814491890890559488",
+              "start": 21,
+              "url": "https://t.co/PNsIHQ7OVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814491908720472373",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這兩天不知不覺畫了六張卡了....... https://t.co/PNsIHQ7OVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高                 备用： @Riika_DLshyp2  贫穷ed魔女小鬼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 199,
+          "like_count": 1840,
+          "listed_count": 1,
+          "tweet_count": 3477
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T13:13:49.000Z",
+        "description": "⊹˚.⋆ ✞ 湖のほとりに天使が舞い降りた ·̩͙ ಎ ⊹˚ 大家安安我是安安｜請多多跟我互動！！！｜中文⭕️日文⭕️英文⭕️｜翻譯器使用｜🚪88｜我是二次元｜性別是麵包🍞｜躁鬱治療中｜大量廢話｜日常發瘋｜要互fo請私信！！｜接占卜｜皮套：小森七工作室｜繪帳：@annpann_wann",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "annpann_wann"
+              }
+            ]
+          }
+        },
+        "id": "1640341296043917325",
+        "location": "天國湖畔",
+        "name": "♡あんあん♡",
+        "pinned_tweet_id": "1729154706906464376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799336720049352704/KgI0bR6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 583,
+          "like_count": 8887,
+          "listed_count": 1,
+          "tweet_count": 4410
+        },
+        "username": "annannanngle",
+        "verified": false
+      }
+    ]
+  }
+}

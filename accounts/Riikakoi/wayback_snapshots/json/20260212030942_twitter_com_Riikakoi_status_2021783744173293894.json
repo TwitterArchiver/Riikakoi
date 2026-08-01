@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020855395112439808"
+      ],
+      "media_source_tweet_id": [
+        "2020855402552828300"
+      ]
+    },
+    "author_id": "1266667192352821250",
+    "conversation_id": "2021783744173293894",
+    "created_at": "2026-02-12T03:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T04:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021783744173293894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1981563709102477312",
+          "start": 3,
+          "username": "yui804275429451"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3P8t6nX8ol",
+          "end": 47,
+          "expanded_url": "https://x.com/yui804275429451/status/2020855402552828300/photo/1",
+          "media_key": "3_2020855395112439808",
+          "start": 24,
+          "url": "https://t.co/3P8t6nX8ol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021783744173293894",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 512
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020855402552828300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yui804275429451: 🎀🐱 https://t.co/3P8t6nX8ol"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021783744173293894].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021783744173293894",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021783744173293894"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020855395112439808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuFRmAb0AA6ET6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020855395112439808"
+          ]
+        },
+        "author_id": "1981563709102477312",
+        "conversation_id": "2020855402552828300",
+        "created_at": "2026-02-09T13:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020855402552828300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3P8t6nX8ol",
+              "end": 26,
+              "expanded_url": "https://x.com/yui804275429451/status/2020855402552828300/photo/1",
+              "media_key": "3_2020855395112439808",
+              "start": 3,
+              "url": "https://t.co/3P8t6nX8ol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020855402552828300",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 345,
+          "impression_count": 19054,
+          "like_count": 3102,
+          "quote_count": 12,
+          "reply_count": 40,
+          "retweet_count": 512
+        },
+        "reply_settings": "everyone",
+        "text": "🎀🐱 https://t.co/3P8t6nX8ol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-05-30T09:46:29.000Z",
+        "description": "#病み垢 ⁺  #EDTWT ⁺ OD ✝️ Le 🖤 157cm/3xkg  休学女高 🩸： @Riika_DLshyp2  贫穷ed魔女小鬼🧡餐券小女孩欢迎互fo🤲🏻求求了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "病み垢"
+              },
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "EDTWT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Riika_DLshyp2"
+              }
+            ]
+          }
+        },
+        "id": "1266667192352821250",
+        "location": "棺材⚰️",
+        "name": "幽灵羊",
+        "pinned_tweet_id": "1812029846438183193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629547205446205442/ovFn4Maw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 203,
+          "like_count": 1702,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 4116
+        },
+        "username": "Riikakoi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015769888288067585/0C-Vs_Qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4850,
+          "following_count": 479,
+          "like_count": 2609,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 926
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}
